@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sentimientos</string>
+    <string name="no_feeling_text">Sin Sentimineto</string>
+    <string name="emoji_desc_text">Un Emoji</string>
+    <string name="prev_action_text">Anterior</string>
+    <string name="next_action_text">Siguiente</string>
+    <string name="feeling_happy">Feliz</string>
+    <string name="feeling_sad">Triste</string>
+    <string name="feeling_angry">Enojado</string>
+    <string name="feeling_confused">Confundido</string>
+    <string name="feeling_crying">Llorón</string>
+    <string name="feeling_inlove">Enamorado</string>
+    <string name="feeling_pain">Adolorido</string>
+    <string name="feeling_scared">Asustado</string>
+    <string name="feeling_shocked">Conmocionado</string>
+    <string name="feeling_smiling">Sonriente</string>
+</resources>

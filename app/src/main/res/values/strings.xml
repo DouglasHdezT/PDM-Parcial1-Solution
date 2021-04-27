@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Feelings</string>
+    <string name="no_feeling_text">No Feeling</string>
+    <string name="emoji_desc_text">An emoji</string>
+    <string name="prev_action_text">previous</string>
+    <string name="next_action_text">next</string>
+    <string name="feeling_happy">Happy</string>
+    <string name="feeling_sad">Sad</string>
+    <string name="feeling_angry">Angry</string>
+    <string name="feeling_confused">Confused</string>
+    <string name="feeling_crying">Crying</string>
+    <string name="feeling_inlove">In Love</string>
+    <string name="feeling_pain">Pain</string>
+    <string name="feeling_scared">Scared</string>
+    <string name="feeling_shocked">Shocked</string>
+    <string name="feeling_smiling">Smiling</string>
+</resources>
